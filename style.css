@@ -80,7 +80,7 @@ a {
 }
 
 .hero {
-  padding-top: clamp(76px, 11vw, 138px);
+  padding-top: clamp(32px, 4.5vw, 56px);
 }
 
 .eyebrow {
@@ -571,7 +571,7 @@ h2 {
   }
 
   .hero {
-    padding-top: 54px;
+    padding-top: 28px;
   }
 
   h1 {
